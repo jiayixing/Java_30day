@@ -9,5 +9,6 @@ public class Test1 {
     public static void main(String[] args) {
         System.out.println("my first git");
         System.out.println("I am comming");
+        System.out.println("I am comming");
     }
 }
